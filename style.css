@@ -1,0 +1,90 @@
+.main-home{
+    background: url(./img/bgcycle1.jpg);
+    width: 100%;
+    min-height: 850px;
+    max-height: 700px;
+    background-size: cover;
+    position: absolute;
+}
+#nave{
+    padding: 7px;
+    margin-top: 30px;
+    margin-left: 3px;
+}
+#name1{
+    font-size: 40px;
+    color: #0063B1;
+    font-weight: 400;
+    text-shadow: 5px 5px 6px ;
+}
+#name1:hover{
+    color: #021b34;
+}
+#name2{
+    font-size: 40px;
+    color: #00203F;
+    font-weight: 700;
+    text-shadow: 5px 5px 6px;
+}
+#name2:hover{
+    font-size: 40px;
+    color: #021b34;
+    font-weight: 800;
+    text-shadow: 6px 10px 6px;
+}
+.bottom{
+    position: absolute;
+  bottom: 90px;
+  left: 25px;
+  font-size: 25px;
+}
+#bname1{
+    font-size: 25px;
+    font-weight: 700;
+    background: rgba( 255, 255, 255, 0.6 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6.5px );
+-webkit-backdrop-filter: blur( 6.5px );
+border-radius: 20px;
+border: 9px solid rgba( 255, 255, 255, 0.18 );
+}
+#bname2{
+    font-size: 25px;
+    font-weight: 700;
+    background: rgba( 255, 255, 255, 0.6 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6.5px );
+-webkit-backdrop-filter: blur( 6.5px );
+border-radius: 20px;
+border: 9px solid rgba( 255, 255, 255, 0.18 );
+}
+#bname3{
+    font-size: 25px;
+    font-weight: 700;
+    background: rgba( 255, 255, 255, 0.6 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6.5px );
+-webkit-backdrop-filter: blur( 6.5px );
+border-radius: 20px;
+border: 9px solid rgba( 255, 255, 255, 0.18 );
+}
+#bname4{
+    font-size: 25px;
+    font-weight: 700;
+    background: rgba( 255, 255, 255, 0.6 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6.5px );
+-webkit-backdrop-filter: blur( 6.5px );
+border-radius: 20px;
+border: 9px solid rgba( 255, 255, 255, 0.18 );
+}
+#bname5{
+    font-size: 25px;
+    font-weight: 700;
+    background: rgba( 255, 255, 255, 0.6 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6.5px );
+-webkit-backdrop-filter: blur( 6.5px );
+border-radius: 20px;
+border: 9px solid rgba( 255, 255, 255, 0.18 );
+}
